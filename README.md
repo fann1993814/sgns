@@ -1,2 +1,2 @@
 # sgns
-skip-gram with negative sampling in pytorch
+Skip-Gram with Negative Sampling in Pytorch
